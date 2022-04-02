@@ -1,2 +1,4 @@
 # EDS124BR
-eds124br portfolio
+EDS124BR portfolio
+Fangqi Yuan
+
