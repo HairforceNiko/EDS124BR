@@ -7,7 +7,9 @@ bin-release/
 # Other files and folders
 .settings/
 start.png/
-repeat.png
+repeat.png/
+la+.jpg/
+quest.png
 
 # Executables
 *.swf
