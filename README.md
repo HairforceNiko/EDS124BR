@@ -1,7 +1,7 @@
 # EDS124BR
 EDS124BR portfolio  
 Fangqi Yuan  
-<img src="la+.jpg" width="150" height="200">  
+<img src="la+.jpg" width="200" height="300">  
 
 Show What You Know: Explain Your Program Video(click the image to check the video):   
 [![IMAGE ALT TEXT](start.png)](https://youtu.be/r1KgyL_vHaY)    
