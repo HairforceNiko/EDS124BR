@@ -10,4 +10,4 @@ Repeats: Write a Program(click the image to check the video):
 [![IMAGE ALT TEXT](repeat.png)](https://youtu.be/rOnDDMkzTtE)    
 
 Repeats: Write a Program(click the image to check the video):   
-[![IMAGE ALT TEXT](repeat.png)](https://youtu.be/rOnDDMkzTtE)    
+[![IMAGE ALT TEXT](quest.png)](https://youtu.be/A8fXWROwCmk)    
