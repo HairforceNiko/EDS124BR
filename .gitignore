@@ -6,12 +6,7 @@ bin-release/
 
 # Other files and folders
 .settings/
-start.png/
-repeat.png/
-la+.jpg/
-quest.png/
-octagon.png/
-Monkey.png
+*.png
 
 # Executables
 *.swf
