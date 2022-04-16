@@ -9,7 +9,8 @@ bin-release/
 start.png/
 repeat.png/
 la+.jpg/
-quest.png
+quest.png/
+octagon.png
 
 # Executables
 *.swf
