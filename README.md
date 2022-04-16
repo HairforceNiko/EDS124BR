@@ -11,3 +11,7 @@ Repeats: Write a Program(click the image to check the video):
 
 Teaching Programming Portfolio - Lesson Plan(click the image to check the video):   
 [![IMAGE ALT TEXT](quest.png)](https://youtu.be/A8fXWROwCmk)    
+
+Show What You Know: Write and Explain A Program(click the image to check the video):   
+[![IMAGE ALT TEXT](octagon.png)](https://youtu.be/noHJImZ3iAg)    
+
