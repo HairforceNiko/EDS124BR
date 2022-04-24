@@ -17,3 +17,6 @@ Show What You Know: Write and Explain A Program(click the image to check the vid
 
 Show What You Know: Event(click the image to check the video):   
 [![IMAGE ALT TEXT](Monkey.png)](https://youtu.be/QvxqEixKQSg)    
+
+Show What You Know: Event(click the image to check the video):   
+[![IMAGE ALT TEXT](variable.png)](https://youtu.be/WGQijL8OR6c)    
