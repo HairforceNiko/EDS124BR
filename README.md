@@ -20,3 +20,6 @@ Show What You Know: Event(click the image to check the video):
 
 Show What You Know: Write and Explain A Program(click the image to check the video):   
 [![IMAGE ALT TEXT](/image/variable.png)](https://youtu.be/WGQijL8OR6c)    
+
+Show What You Know: Write and Explain A Program(click the image to check the video):   
+[![IMAGE ALT TEXT](/image/conditional.png)](https://youtu.be/WGQijL8OR6c)    
