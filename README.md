@@ -23,3 +23,6 @@ Show What You Know: Write and Explain A Program(click the image to check the vid
 
 Show What You Know: Conditional loop(click the image to check the video):   
 [![IMAGE ALT TEXT](/image/conditional.png)](https://youtu.be/m0K2JYRp9jI)    
+
+Show What You Know: If-else(click the image to check the video):   
+[![IMAGE ALT TEXT](/image/if.png)](https://youtu.be/pchjVs_byhM)    
