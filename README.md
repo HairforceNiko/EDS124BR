@@ -26,3 +26,6 @@ Show What You Know: Conditional loop(click the image to check the video):
 
 Show What You Know: If-else(click the image to check the video):   
 [![IMAGE ALT TEXT](/image/if.png)](https://youtu.be/pchjVs_byhM)    
+
+Show What You Know: Nested-If-else(click the image to check the video):   
+[![IMAGE ALT TEXT](/image/nestif.png)](https://youtu.be/SRK6JPiRfyU)  
