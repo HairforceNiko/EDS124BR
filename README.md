@@ -29,3 +29,6 @@ Show What You Know: If-else(click the image to check the video):
 
 Show What You Know: Nested-If-else(click the image to check the video):   
 [![IMAGE ALT TEXT](/image/nestif.png)](https://youtu.be/SRK6JPiRfyU)  
+
+Show What You Know: Compound-If(click the image to check the video):   
+[![IMAGE ALT TEXT](/image/comif.png)](https://youtu.be/BmtM67fd330)  
