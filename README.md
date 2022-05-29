@@ -32,3 +32,6 @@ Show What You Know: Nested-If-else(click the image to check the video):
 
 Show What You Know: Compound-If(click the image to check the video):   
 [![IMAGE ALT TEXT](/image/comif.png)](https://youtu.be/BmtM67fd330)  
+
+Show What You Know: Abstraction(click the image to check the video):   
+[![IMAGE ALT TEXT](/image/abs.png)](https://youtu.be/zuHcoW0MbCw)  
