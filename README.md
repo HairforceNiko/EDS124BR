@@ -37,4 +37,4 @@ Show What You Know: Abstraction(click the image to check the video):
 [![IMAGE ALT TEXT](/image/abs.png)](https://youtu.be/zuHcoW0MbCw)  
 
 Show What You Know: Abstraction(click the image to check the video):   
-[![IMAGE ALT TEXT](/image/list.png)]()  
+[![IMAGE ALT TEXT](/image/list.png)](https://youtu.be/wdXaUEySwAc)  
